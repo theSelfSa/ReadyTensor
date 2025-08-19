@@ -1,2 +1,4 @@
 ReadyTensor.egg-info/
 *.egg-info/
+__pycache__/
+*.py[cod]
