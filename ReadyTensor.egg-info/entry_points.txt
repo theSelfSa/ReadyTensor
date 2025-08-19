@@ -1,2 +1,0 @@
-[console_scripts]
-rt-repo-lite = ReadyTensor.main:main
